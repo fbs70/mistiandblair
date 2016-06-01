@@ -10,8 +10,8 @@ title: Misti and Blair
 email: your-email@domain.com
 tagline: 'Our Life in between a Rock and a Weird Place'
 description: Our Life in between a Rock and a Weird Place
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/mistiandblair" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
 
 # social
