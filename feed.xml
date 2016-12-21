@@ -5,22 +5,9 @@
     <description>Our Life in between a Rock and a Weird Place</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Dec 2016 15:16:54 -0600</pubDate>
-    <lastBuildDate>Wed, 21 Dec 2016 15:16:54 -0600</lastBuildDate>
+    <pubDate>Wed, 21 Dec 2016 15:25:42 -0600</pubDate>
+    <lastBuildDate>Wed, 21 Dec 2016 15:25:42 -0600</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
-    
-      <item>
-        <title>Hello world!</title>
-        <description>&lt;p&gt;Welcome to WordPress. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Dec 2016 23:43:50 -0600</pubDate>
-        <link>/2016/12/20/hello-world/</link>
-        <guid isPermaLink="true">/2016/12/20/hello-world/</guid>
-        
-        
-        <category>Uncategorized</category>
-        
-      </item>
     
       <item>
         <title>How to add Tags in GitHub's Jekyll without Plugin</title>
@@ -361,6 +348,21 @@
         
         
         <category>Landscaping</category>
+        
+      </item>
+    
+      <item>
+        <title>Anniversary Weekend</title>
+        <description>&lt;p&gt;Last weekend we celebrated our 2nd anniversary. We went to &lt;a href=&quot;http://www.violetcrowncinema.com/&quot; target=&quot;_blank&quot;&gt;Violet Crown Cinema&lt;/a&gt; to see the documentary &lt;a href=&quot;http://www.sonyclassics.com/beatsrhymesandlife/&quot; target=&quot;_blank&quot;&gt;Beats Rhyme &amp;amp; Life: The Travels of a Tribe Called Quest&lt;/a&gt;. It was a very good movie. Then we went to &lt;a href=&quot;http://www.zeds.bz/&quot; target=&quot;_blank&quot;&gt;Zed’s&lt;/a&gt; in north Austin for dinner. We capped off the night by having some anniversary cake.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Aug 2011 13:29:42 -0500</pubDate>
+        <link>/anniversary/2011/08/11/anniversary-weekend/</link>
+        <guid isPermaLink="true">/anniversary/2011/08/11/anniversary-weekend/</guid>
+        
+        <category>anniversary</category>
+        
+        
+        <category>anniversary</category>
         
       </item>
     
