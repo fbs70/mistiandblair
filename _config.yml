@@ -34,12 +34,15 @@ include:
   - .nojekyll
 # Exclude files/folders
 exclude:
-  - "Rakefile"
-  - "Gruntfile.coffee"
-  - "node_modules"
-  - "package.json"
-  - "bower_components"
-  - "bower.json"
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - Gruntfile.coffee
+  - node_modules
+  - package.json
+  - bower_components
+  - bower.json
 
 # Custom vars
 version:             2.0.0
