@@ -29,9 +29,9 @@ social:
 # Build settings
 markdown: kramdown
 
+# Include files/folders
 include:
   - .nojekyll
-
 # Exclude files/folders
 exclude:
   - "Rakefile"
